@@ -1,7 +1,8 @@
-# Welcome to Remy
-https://remyie.github.io/remy/ <br>
+---
+layout: post
+title: Welcome to Remy
+---
 Remy is a Hyde flavor which aims to be more user friendly.<br>
-Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content. It's based on Poole, the Jekyll butler.<br>
 None of the code is actually mine. Here where it comes from https://github.com/poole/hyde <br>
 It's under MIT license. <br>
 I only did some changes and made it easier to setup.
@@ -35,6 +36,6 @@ You are done. You should be able to visit your site by going into yourusername.g
 
 ## I want cool text, please?
   https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax <br>
-  There you go.<br><br>
-  
+  There you go.
+
 If you have more questions you can go here https://github.com/poole/hyde. Which applies %99 to here.
